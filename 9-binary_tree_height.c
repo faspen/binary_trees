@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_is_root - check for root
- * @node: node to check
+ * @tree: node to check
  * Return: 1 if leaf, 0 if not
  */
 size_t binary_tree_height(const binary_tree_t *tree)
